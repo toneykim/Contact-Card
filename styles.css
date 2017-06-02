@@ -1,0 +1,61 @@
+body{
+
+font-family: sans-serif; arial;
+
+}
+
+main {
+	height: 700px;
+	width: 1000px;
+
+
+}
+
+
+aside{
+
+	width: 500px;
+	height: 500px;
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+header{
+	width: 500px;
+	height: 300px;
+
+
+}
+
+section{
+	width: 500px;
+	height: 500px;
+
+}
+
+
+
+article{
+	width: 500px;
+	height: 1000px;
+	display: inline-block;
+	//background: grey;
+	vertical-align: top;
+
+}
+
+div {
+	border: 1px solid black;
+	text-align: center;
+	margin: 5px 0 5px 0;
+	height: 150px;
+	padding: 10px;
+
+
+}
+
+h2,h4{
+
+	display:none;
+}
